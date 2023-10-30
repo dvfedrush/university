@@ -1,0 +1,30 @@
+[submodule "BiocadTestCase"]
+	path = BiocadTestCase
+	url = /mnt/d/GitHub/university/BiocadTestCase
+[submodule "CitingBot"]
+	path = CitingBot
+	url = /mnt/d/GitHub/university/CitingBot
+[submodule "Cryptography"]
+	path = Cryptography
+	url = /mnt/d/GitHub/university/Cryptography
+[submodule "DS-try"]
+	path = DS-try
+	url = /mnt/d/GitHub/university/DS-try
+[submodule "DataStructures"]
+	path = DataStructures
+	url = /mnt/d/GitHub/university/DataStructures
+[submodule "FirstTrySpringApp"]
+	path = FirstTrySpringApp
+	url = /mnt/d/GitHub/university/FirstTrySpringApp
+[submodule "MobileDevicesControl"]
+	path = MobileDevicesControl
+	url = /mnt/d/GitHub/university/MobileDevicesControl
+[submodule "RCD_Remote"]
+	path = RCD_Remote
+	url = /mnt/d/GitHub/university/RCD_Remote
+[submodule "Steganography"]
+	path = Steganography
+	url = /mnt/d/GitHub/university/Steganography
+[submodule "lab_comments"]
+	path = lab_comments
+	url = /mnt/d/GitHub/university/lab_comments
